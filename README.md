@@ -444,8 +444,8 @@ Properties allowing to configure component not to do something should accept val
 - PSR2 :https://www.php-fig.org/psr/psr-2/
 - Git commit conventions: https://www.conventionalcommits.org/en/v1.0.0/
 - Php error logging: https://www.loggly.com/ultimate-guide/php-logging-basics/
-- https://www.sonarlint.org/
-- https://plugins.jetbrains.com/plugin/17399-sql-optimizer-indexing-advisor-mysql-postgresql-by-eversql/
+- Sonar Lint: https://www.sonarlint.org/
+- SQl optimizer tool: https://plugins.jetbrains.com/plugin/17399-sql-optimizer-indexing-advisor-mysql-postgresql-by-eversql/
 
 ### Further suggesion and contributions
 - Contribution to this doc is welcomed. Fork or generate a pull request to main branch, whenever felt like you need to.
