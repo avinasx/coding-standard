@@ -440,9 +440,10 @@ Properties allowing to configure component not to do something should accept val
 
 
 ### References and suggested readings
-- https://www.php-fig.org/psr/
-- https://www.php-fig.org/psr/psr-2/
-- https://www.conventionalcommits.org/en/v1.0.0/
+- PSR :https://www.php-fig.org/psr/
+- PSR2 :https://www.php-fig.org/psr/psr-2/
+- Git commit conventions: https://www.conventionalcommits.org/en/v1.0.0/
+- Php error logging: https://www.loggly.com/ultimate-guide/php-logging-basics/
 - https://www.sonarlint.org/
 - https://plugins.jetbrains.com/plugin/17399-sql-optimizer-indexing-advisor-mysql-postgresql-by-eversql/
 
